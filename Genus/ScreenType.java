@@ -1,0 +1,3 @@
+public enum ScreenType {
+    WELCOME, NAME, INFORMATION, INSTRUCTIONS, MAIN, LEADERBOARD
+}

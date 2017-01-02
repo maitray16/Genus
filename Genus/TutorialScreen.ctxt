@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TutorialScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ TutorialScreen\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=world
+comment1.target=TutorialScreen(SortingWorld)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TutorialScreen\n
+comment2.params=nextScreen
+comment2.target=void\ setNextScreen(IScreenHandler)
+comment3.params=
+comment3.target=void\ showScreen()
+comment4.params=
+comment4.target=void\ removeScreen()
+numComments=5

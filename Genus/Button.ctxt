@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ This\ class\ is\ used\ for\ button.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=image
+comment1.target=Button(greenfoot.GreenfootImage)
+comment1.text=\n\ Constructor\ -\ To\ set\ an\ image,\ with\ image\ name\ as\ input.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

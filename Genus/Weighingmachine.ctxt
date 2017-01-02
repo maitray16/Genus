@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Weighingmachine
+comment0.text=\n\ Write\ a\ description\ of\ class\ Weighingmachine\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=direction\ b1\ b2
+comment2.target=void\ tilt(java.lang.String,\ Ball,\ Ball)
+comment3.params=
+comment3.target=void\ equilibrium()
+comment4.params=b1\ b2
+comment4.target=void\ swapBalls(Ball,\ Ball)
+comment5.params=b1\ b2
+comment5.target=void\ checkLocks(Ball,\ Ball)
+comment6.params=
+comment6.target=int\ getLockedBallsCount()
+comment7.params=object\ finalX\ finalY
+comment7.target=void\ transitionBalls(Ball,\ int,\ int)
+comment8.params=direction
+comment8.target=void\ animateScale(java.lang.String)
+numComments=9
